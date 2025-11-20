@@ -6,11 +6,11 @@ df = pd.read_csv("cleaned_data.csv")
 
 
 user = "postgres"
-password = "Nishan%402059"
+password = "1010"
 
 host = "localhost"
 port = "5432"
-database = "superstore_db"
+database = "salesdb"
 
 
 engine = create_engine(f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{database}")
