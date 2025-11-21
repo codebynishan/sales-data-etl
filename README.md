@@ -4,29 +4,20 @@ This project analyzes the **Superstore Sales Dataset** using **PostgreSQL** and 
 
 ---
 
-## 📌 Project Overview
-
-* Load the Superstore dataset into PostgreSQL
-* Clean and format data (especially date columns)
-* Run SQL queries for insights
-
----
-
 ## 🛠️ Tools Used
 
 * PostgreSQL
-* Python (optional for ETL)
+* Python 
 * SQL for analysis
-
 ---
 
-## 📊 What This Project Includes
+##  What This Project Includes
 
 ### **1. Basic ETL Steps**
 
 * Extract data from CSV
 * Transform: clean dates, remove duplicates
-* Load to PostgreSQL table
+* Load to Database
 
 
 
